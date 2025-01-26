@@ -5,8 +5,5 @@ logo: /assets/AMB headshot circle.png
 theme: jekyll-theme-minimal
 
 # Override styles with custom CSS
-sass:
-  style: compressed
-
-assets:
-  css: "assets/css/custom.css"
+include:
+  - assets/css/custom.css
