@@ -2,9 +2,39 @@
 
 I am a Ph.D. candidate in Bioengineering at the UC Berkeley-UCSF Bioengineering Graduate Program. My research centers on creating innovative point-of-care diagnostic assays and devices, and leveraging CRISPR technology for rapid, multiplexed RNA detection. Notably, I have developed and implemented cost-effective AI-based mobile microscopy platforms for detecting soil-transmitted helminths in Bangladesh, effectively bridging cutting-edge research and impactful field applications.
 
-My experience extends to leading and collaborating with cross-functional, interdisciplinary teams across the globe. I excel in leveraging my communication skills to manage and contribute to complex research projects. My passion lies in advancing digital healthcare technologies that significantly improve access to basic healthcare, enhance public health surveillance, and support targeted interventions.
+My experience extends to leading and collaborating with cross-functional, interdisciplinary teams across the globe. My passion lies in advancing digital healthcare technologies that significantly improve access to basic healthcare, enhance public health surveillance, and support targeted interventions. Beyond my research, I am deeply committed to education and mentorship. I have crafted educational programs and mentored a diverse array of students, including those from underrepresented backgrounds, spanning high school to graduate levels. Through these efforts, I aim to instill a thorough understanding of bioengineering principles and their practical applications, preparing the next generation to tackle real-world challenges.
 
-Beyond my research, I am deeply committed to education and mentorship. I have crafted educational programs and mentored a diverse array of students, including those from underrepresented backgrounds, spanning high school to graduate levels. Through these efforts, I aim to instill a thorough understanding of bioengineering principles and their practical applications, preparing the next generation to tackle real-world challenges.
+## Skills
+__Wet lab skills__
+- Expertise in molecular biology techniques including ELISA, mass spectrometry, immunohistochemistry, Western blotting, and column chromatography
+- Proficient in designing and assembling microfluidic devices for sample processing, RT-LAMP reactions, and Cas13-based assays
+- Experience with advanced microscopy techniques such as brightfield, darkfield, fluorescence, phase contrast, transmission electron microscopy, and TIRF microscopy
+- Synthesis and characterization of liposomes for diagnostic and therapeutic applications
+- Phage ImmunoPrecipitation and Sequencing (PhIP-Seq) for pathogen detection and immune response profiling
+
+__Assay and Device Development__
+- Developed bead-based surface Cas13 assays for multiplexed RNA detection
+- Designed custom PDMS-on-glass chambers for scientific observation of biological systems
+- Prototyped and laser-cut custom molds for microfluidic devices
+- Integrated custom cartridges with imaging systems for automated fluorescence-based assays
+- Developed point-of-care diagnostic devices for infectious diseases using CRISPR and smartphone-based microscopy
+
+__Data Analysis & Computational Skills__
+- Proficient in statistical analysis and data visualization using MATLAB, R, and Python
+- Experience in bioinformatics tools for genome assembly, gene annotation, and phylogenetic analysis
+- Time series data analysis for fluorescence imaging and amplification curve generation
+- Expertise in ImageJ for cell growth analysis and fluorescence quantification
+
+__Software & Programming__
+- Skilled in MATLAB for image acquisition, normalization, and data processin.
+- Programming in Arduino for automated biochip imaging systems
+- Proficient in Python for data processing and algorithm development for machine learning models in biological applications
+
+__Leadership, Teaching & Mentoring__
+- Extensive experience mentoring high school, undergraduate, and Ph.D. students in lab-based research projects
+- Developed STEM curricula and led laboratory courses, providing hands-on training in microscopy and bioengineering techniques
+- Led cross-functional teams in the development of novel diagnostics and medical devices, collaborating across academic and industry partners
+- Co-organized and participated in hackathons and design challenges, addressing public health and pandemic-related challenges
 
 ## Education
 ### **Doctor of Philosophy (PhD) | UC Berkeley-UCSF Bioengineering Graduate Program | August 2019 - May 2025 (Expected graduation)**								       		
@@ -277,38 +307,6 @@ __Point of care diagnostic x-ray machine for radiographic assessment of cervical
 
 __Magnetic nanoparticle-conjugated antibody for treatment of rheumatoid arthritis| UIUC | Fall 2014__
 - Modelled an antibody-conjugated magnetic nanoparticle to treat rheumatoid arthritis. Antibody was a monoclonal monospecific antibody for tumor necrosis factor (TNF), attached to a magnetic nanoparticle for efficient delivery of the antibody to joints affected by the disease
-
-## Skills
-__Wet lab skills__
-- Expertise in molecular biology techniques including ELISA, mass spectrometry, immunohistochemistry, Western blotting, and column chromatography
-- Proficient in designing and assembling microfluidic devices for sample processing, RT-LAMP reactions, and Cas13-based assays
-- Experience with advanced microscopy techniques such as brightfield, darkfield, fluorescence, phase contrast, transmission electron microscopy, and TIRF microscopy
-- Synthesis and characterization of liposomes for diagnostic and therapeutic applications
-- Phage ImmunoPrecipitation and Sequencing (PhIP-Seq) for pathogen detection and immune response profiling
-
-__Assay and Device Development__
-- Developed bead-based surface Cas13 assays for multiplexed RNA detection
-- Designed custom PDMS-on-glass chambers for scientific observation of biological systems
-- Prototyped and laser-cut custom molds for microfluidic devices
-- Integrated custom cartridges with imaging systems for automated fluorescence-based assays
-- Developed point-of-care diagnostic devices for infectious diseases using CRISPR and smartphone-based microscopy
-
-__Data Analysis & Computational Skills__
-- Proficient in statistical analysis and data visualization using MATLAB, R, and Python
-- Experience in bioinformatics tools for genome assembly, gene annotation, and phylogenetic analysis
-- Time series data analysis for fluorescence imaging and amplification curve generation
-- Expertise in ImageJ for cell growth analysis and fluorescence quantification
-
-__Software & Programming__
-- Skilled in MATLAB for image acquisition, normalization, and data processin.
-- Programming in Arduino for automated biochip imaging systems
-- Proficient in Python for data processing and algorithm development for machine learning models in biological applications
-
-__Leadership, Teaching & Mentoring__
-- Extensive experience mentoring high school, undergraduate, and Ph.D. students in lab-based research projects
-- Developed STEM curricula and led laboratory courses, providing hands-on training in microscopy and bioengineering techniques
-- Led cross-functional teams in the development of novel diagnostics and medical devices, collaborating across academic and industry partners
-- Co-organized and participated in hackathons and design challenges, addressing public health and pandemic-related challenges
 
 ## Relevant coursework
 - Spring 2025- Bioengineering Ethics
