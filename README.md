@@ -12,7 +12,7 @@ Beyond my research, I am deeply committed to education and mentorship. I have cr
 - Designated Emphasis: Development Engineering
 - Concentration: Device and Molecular Assay Development for Point-of-Care
              		
-### **Master of science (MS) | Boston university (BU) |  September 2017 - August 2019**								       		
+### **Master of Science (MS) | Boston University (BU) |  September 2017 - August 2019**								       		
 - Major: Biomedical Engineering
 
 ### **Bachelor of Science (BS) | University of Illinois at Urbana-Champaign (UIUC) | August 2013 - May 2017**								       		
@@ -22,7 +22,7 @@ Beyond my research, I am deeply committed to education and mentorship. I have cr
 ## Research Experience
 ### **Prof. Daniel Fletcher’s Lab | UC Berkeley | June 2020-Present**
 
-__Bead-based surface Cas13 assay for multiplexed detection of RNA__
+__Multiplexed direct detection of RNA with surface-bound Cas13a__
 
 - Demonstrated a novel proof-of-concept for performing Cas13 enzyme reactions on a 2D bead surface, enabling differential fluorescence signaling based on the concentration of target RNA in the sample
 - Developed a one-pot multiplexed assay capable of detecting multiple distinct viral RNAs in clinical samples
