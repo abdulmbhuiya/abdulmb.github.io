@@ -3,3 +3,10 @@ logo: /assets/AMB headshot circle.png
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
+
+# Override styles with custom CSS
+sass:
+  style: compressed
+
+assets:
+  css: "assets/css/custom.css"
