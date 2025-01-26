@@ -5,5 +5,5 @@ logo: /assets/AMB headshot circle.png
 theme: jekyll-theme-minimal
 
 # Override styles with custom CSS
-include:
-  - assets
+#include:
+#  - assets
