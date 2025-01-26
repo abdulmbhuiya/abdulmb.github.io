@@ -3,11 +3,11 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-**Doctor of Philosophy (PhD) | August 2019 - May 2025 (Expected graduation) | UC Berkeley-UCSF Bioengineering Graduate Program								       		
+**Doctor of Philosophy (PhD) | August 2019 - May 2025 (Expected graduation) | UC Berkeley-UCSF Bioengineering Graduate Program**								       		
 - Major: Bioengineering | Designated Emphasis: Development Engineering | Concentration: Device and Molecular Assay Development for Point-of-Care	 			        		
-**Master of science (MS) | September 2017 - August 2019 | Boston university (BU)								       		
+**Master of science (MS) | September 2017 - August 2019 | Boston university (BU)**								       		
 - Major: Biomedical Engineering
-**Bachelor of Science (BS) | August 2013 - May 2017 | University of Illinois at Urbana-Champaign (UIUC)								       		
+**Bachelor of Science (BS) | August 2013 - May 2017 | University of Illinois at Urbana-Champaign (UIUC)**								       		
 - Major: Molecular and Cellular Biology (MCB) | Minor: Chemistry	 	   
 
 ## Work Experience
