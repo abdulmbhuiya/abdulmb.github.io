@@ -3,9 +3,12 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Bioengineering | The University of Texas at Dallas (_May 2025_)								       		
-- M.S., Biomedical Engineering	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Molecular and Cellular Biology | The University of Texas at Dallas (_May 2017_)
+**Doctor of Philosophy (PhD) | August 2019 - May 2025 (Expected graduation) | UC Berkeley-UCSF Bioengineering Graduate Program								       		
+- Major: Bioengineering | Designated Emphasis: Development Engineering | Concentration: Device and Molecular Assay Development for Point-of-Care	 			        		
+**Master of science (MS) | September 2017 - August 2019 | Boston university (BU)								       		
+- Major: Biomedical Engineering
+**Bachelor of Science (BS) | August 2013 - May 2017 | University of Illinois at Urbana-Champaign (UIUC)								       		
+- Major: Molecular and Cellular Biology (MCB) | Minor: Chemistry	 	   
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
