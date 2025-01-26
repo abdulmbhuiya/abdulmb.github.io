@@ -16,7 +16,8 @@ Beyond my research, I am deeply committed to education and mentorship. I have cr
 - Major: Biomedical Engineering
 
 ### **Bachelor of Science (BS) | University of Illinois at Urbana-Champaign (UIUC) | August 2013 - May 2017**								       		
-- Major: Molecular and Cellular Biology (MCB) | Minor: Chemistry	 	   
+- Major: Molecular and Cellular Biology (MCB)
+- Minor: Chemistry	 	   
 
 ## Research Experience
 ### **Prof. Daniel Fletcher’s Lab | UC Berkeley | June 2020-Present**
