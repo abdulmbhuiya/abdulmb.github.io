@@ -6,4 +6,4 @@ theme: jekyll-theme-minimal
 
 # Override styles with custom CSS
 include:
-  - assets/css/custom.css
+  - assets
