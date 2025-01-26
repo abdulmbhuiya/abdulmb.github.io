@@ -1,5 +1,7 @@
-.container {
-    max-width: 90%; /* Adjust the percentage or use a fixed width like 1200px */
+/* Override the container width */
+.wrapper {
+    max-width: 90%; /* Adjust percentage or use a fixed width like 1200px */
     margin: 0 auto; /* Center the content */
-    padding: 0 20px; /* Add padding for better readability */
+    padding: 0 20px; /* Optional: Add padding for readability */
 }
+
