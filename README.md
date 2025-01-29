@@ -1,6 +1,6 @@
 ## About me
 
-I am a Ph.D. candidate in Bioengineering at the UC Berkeley-UCSF Bioengineering Graduate Program. My research centers on creating innovative point-of-care diagnostic assays and devices, and leveraging CRISPR technology for rapid, multiplexed and qunatitative RNA detection. 
+I am a Ph.D. candidate in Bioengineering at the UC Berkeley-UCSF Bioengineering Graduate Program. My research centers on creating innovative point-of-care diagnostic assays and devices, and leveraging CRISPR technology for rapid, multiplexed and quantitative RNA detection. 
 
 During my PhD, I developed innovative Cas13-based diagnostic platforms for direct RNA detection from patient samples with compact fluorescence detectors and multiplexing via barcoded beads. This system not only facilitates the simultaneous detection of multiple RNA targets but also provides a novel framework for studying Cas13 reaction kinetics on a 2D surface, offering new insights into its mechanistic behavior. Additionally, I designed and deployed cost-effective, AI-powered mobile microscopy platforms for detecting soil-transmitted helminth eggs in stool samples in Bangladesh, translating cutting-edge research into real-world public health impact.
 
