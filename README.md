@@ -9,6 +9,7 @@ My experience extends to leading and collaborating with cross-functional, interd
 <details><summary> <h2> Skills </h2> </summary>
   
 __Wet lab skills__
+
 - Expertise in molecular biology techniques including ELISA, mass spectrometry, immunohistochemistry, Western blotting, and column chromatography
 - Proficient in designing and assembling microfluidic devices for sample processing, RT-LAMP reactions, and Cas13-based assays
 - Experience with advanced microscopy techniques such as brightfield, darkfield, fluorescence, phase contrast, transmission electron microscopy, and TIRF microscopy
