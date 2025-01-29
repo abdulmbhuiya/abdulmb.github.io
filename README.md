@@ -1,8 +1,10 @@
 ## About me
 
-I am a Ph.D. candidate in Bioengineering at the UC Berkeley-UCSF Bioengineering Graduate Program. My research centers on creating innovative point-of-care diagnostic assays and devices, and leveraging CRISPR technology for rapid, multiplexed RNA detection. Notably, I have developed and implemented cost-effective AI-based mobile microscopy platforms for detecting soil-transmitted helminths in Bangladesh, effectively bridging cutting-edge research and impactful field applications.
+I am a Ph.D. candidate in Bioengineering at the UC Berkeley-UCSF Bioengineering Graduate Program. My research centers on creating innovative point-of-care diagnostic assays and devices, and leveraging CRISPR technology for rapid, multiplexed and qunatitative RNA detection. 
 
-My experience extends to leading and collaborating with cross-functional, interdisciplinary teams across the globe. My passion lies in advancing digital healthcare technologies that significantly improve access to basic healthcare, enhance public health surveillance, and support targeted interventions. Beyond my research, I am deeply committed to education and mentorship. I have crafted educational programs and mentored a diverse array of students, including those from underrepresented backgrounds, spanning high school to graduate levels. Through these efforts, I aim to instill a thorough understanding of bioengineering principles and their practical applications, preparing the next generation to tackle real-world challenges.
+During my PhD, I developed innovative Cas13-based diagnostic platforms for direct RNA detection from patient samples, enabling compact fluorescence-based readouts and multiplexing via barcoded bead tethering. This system not only facilitates the simultaneous detection of multiple RNA targets but also provides a novel framework for studying Cas13 reaction kinetics on a 2D surface, offering new insights into its mechanistic behavior. Additionally, I designed and deployed cost-effective, AI-powered mobile microscopy platforms for detecting soil-transmitted helminth eggs in stool samples in Bangladesh, translating cutting-edge research into real-world public health impact.
+
+My experience extends to leading and collaborating with cross-functional, interdisciplinary teams across the globe. My passion lies in advancing digital healthcare technologies that significantly improve access to basic healthcare, enhance public health surveillance, and support targeted interventions. Beyond my research, I am deeply committed to education and mentorship. I helped design educational programs and mentored a diverse array of students, including those from underrepresented backgrounds, spanning high school to graduate levels. 
 
 ## Skills
 __Wet lab skills__
@@ -66,30 +68,30 @@ __Field diagnosis of soil-transmitted helminth eggs (STH) in stool samples using
 - Trained, optimized, and validated a machine learning algorithm for accurate classification of STH eggs in stool samples processed via our flotation method
 - Led a multidisciplinary team of lab technicians, microscopists, and field workers at ICDDRB, Bangladesh, to conduct a pilot study, demonstrating the utility of the NTDscope for field-based detection of STH eggs
 
-__UC Berkeley Molecular Therapeutics Initiative Project (MTI)__
+__UC Berkeley Molecular Therapeutics Initiative Project (MTI)__[Link to project](https://www.businesswire.com/news/home/20240314120190/en/UC-Berkeley-Launches-New-Molecular-Therapeutics-Initiative-to-Accelerate-Drug-Discovery)
 
 - Developed and optimized methods to test the effects of candidate drug conformations on Methicillin-resistant Staphylococcus aureus (MRSA)
 - Evaluated binding of different labelled candidate molecules on Escherichia Coli  and MRSA
 - Collaborated with cross-functional teams comprising researchers from UC Berkeley, external academic institutes, biopharma companies, and venture capital partners
 
-__NSF-Funded Scientific Observation Exhibit Development with the Exploratorium__
+__NSF-Funded Scientific Observation Exhibit Development with the Exploratorium__ [Link to project](https://www.exploratorium.edu/cellstoself/projects/seeing-scientifically)
 
 - Collaborated on an NSF-funded program to develop museum exhibits that engage visitors in scientific observation, simulating how scientists analyze life through a microscope
 - Designed and prototyped custom PDMS chambers with optimized parameters to facilitate daily feeding of marine rotifers with flagellated algae, ensuring rotifer health and viability throughout the process
 - Trained a cross-functional team at the Exploratorium on the synthesis and assembly of custom PDMS-on-glass chambers for scientific observation of marine rotifer feeding behaviors, utilizing a mobile microscope developed in the Fletcher lab
 
-__Rapid detection of SARS-CoV-2 RNA in saliva via Cas13__
+__Rapid detection of SARS-CoV-2 RNA in saliva via Cas13__ [Link to publication](https://www.nature.com/articles/s41551-022-00917-y)
 
 - Developed compact imaging system for measuring fluorescence from LAMP-Cas13 reaction
 - Integrated custom cartridge and imaging system for automated image acquisition and timelapse fluorescence measurement upon completion of LAMP reaction and initiation of Cas13 reaction 
 
-__Accelerated RNA detection using tandem CRISPR nucleases__
+__Accelerated RNA detection using tandem CRISPR nucleases__ [Link to publication](https://www.nature.com/articles/s41589-021-00842-2)
 
 - Developed compact detector for measuring fluorescence from Csm-Cas13 reaction in custom cartridge
 - Developed software for image acquisition and normalization using MATLAB
 - Performed Csm-Cas13 reactions for initial proof-of-concept experiments
 
-__Amplification-free detection of SARS-CoV-2 with CRISPR-Cas13a and mobile phone microscopy__
+__Amplification-free detection of SARS-CoV-2 with CRISPR-Cas13a and mobile phone microscopy__ [Link to publication](https://www.cell.com/cell/fulltext/S0092-8674(20)31623-8)
 
 - Designed and laser-cut custom acrylic molds for synthesis of polydimethylsiloxane (PDMS) Cas13 reaction chambers 
 - Synthesized and assembled custom PDMS-on-glass reaction chambers for subsequent imaging with mobile phone microscope
@@ -98,13 +100,13 @@ __Amplification-free detection of SARS-CoV-2 with CRISPR-Cas13a and mobile phone
 
 ### **Prof. Joseph Derisi’s Lab (Rotation)| UCSF | March 2020 - April 2020**
 
-__Phage ImmunoPrecipitation and Sequencing (PhIP-Seq) for SARS-CoV-2__
+__Phage ImmunoPrecipitation and Sequencing (PhIP-Seq) for SARS-CoV-2__ [Link to publication](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(20)30165-8)
 
 - Constructed and screened a phage display library displaying human peptides for potential binding partners of SARS-CoV-2 proteins
 
 ### **Prof. Shuvo Roy’s Lab (Rotation)| UCSF | September 2019 - November 2019**
 
-__Genetically-modified islets for improve islet functionality and viability__
+__Genetically-modified islets for improve islet functionality and viability__[Link to publication](https://pubs.rsc.org/en/content/articlehtml/2015/lc/c7lc00096k)
 
 - Performed static glucose-stimulated insulin secretion (GSIS) on adult human islets
 - Performed ELISA to evaluate insulin response on adult human islets
@@ -120,7 +122,7 @@ __Digital microarray for ultrasensitive pathogen identification and antibiotic s
 
 ### **Prof. Selim Unlu’s lab | BU | September 2018 - July 2019**
 
-__Ultrasensitive label-free detection of bacteria by Interferometric Reflectance Imaging Sensor (IRIS)__
+__Ultrasensitive label-free detection of bacteria by Interferometric Reflectance Imaging Sensor (IRIS)__[Link to publication](https://www.sciencedirect.com/science/article/pii/S0956566320302530)
 
 - Developed and optimized an antibody-functionalized microarray chip integrated with Interferometric Reflectance Imaging Sensing (IRIS) to achieve rapid quantification of whole bacteria at concentrations as low as 10 CFU/ml
 - Developed a protocol for detection of E.coli spiked in PBS on IRIS microarray chip
@@ -129,7 +131,7 @@ __Ultrasensitive label-free detection of bacteria by Interferometric Reflectance
 
 ### **Prof. Rashid Bashir’s lab | UIUC | August 2016 - May 2017**
 
-__Hands-free smartphone-based diagnostics for simultaneous detection of Zika, Chikungunya, and Dengue at point-of-care__
+__Hands-free smartphone-based diagnostics for simultaneous detection of Zika, Chikungunya, and Dengue at point-of-care__ [Link to publication](https://link.springer.com/article/10.1007/s10544-017-0209-9)
 
 - Assembled PDMS-on-glass and silicon oxide microfluidic devices for sample processing and RT-LAMP reaction respectively
 - Conducted off-chip and on-chip experiments with virus-spiked blood in assembled microfluidic devices
