@@ -131,7 +131,7 @@ __[Ultrasensitive label-free detection of bacteria by Interferometric Reflectanc
 
 ### **Prof. Rashid Bashir’s lab | UIUC | August 2016 - May 2017**
 
-__[Hands-free smartphone-based diagnostics for simultaneous detection of Zika, Chikungunya, and Dengue at point-of-care] (https://link.springer.com/article/10.1007/s10544-017-0209-9)__
+__[Hands-free smartphone-based diagnostics for simultaneous detection of Zika, Chikungunya, and Dengue at point-of-care](https://link.springer.com/article/10.1007/s10544-017-0209-9)__
 
 - Assembled PDMS-on-glass and silicon oxide microfluidic devices for sample processing and RT-LAMP reaction respectively
 - Conducted off-chip and on-chip experiments with virus-spiked blood in assembled microfluidic devices
