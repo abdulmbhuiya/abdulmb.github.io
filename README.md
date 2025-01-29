@@ -6,7 +6,7 @@ During my PhD, I developed innovative Cas13-based diagnostic platforms for direc
 
 My experience extends to leading and collaborating with cross-functional, interdisciplinary teams across the globe. My passion lies in advancing digital healthcare technologies that significantly improve access to basic healthcare, enhance public health surveillance, and support targeted interventions. Beyond my research, I am deeply committed to education and mentorship. I helped design educational programs and mentored a diverse array of students, including those from underrepresented backgrounds, spanning high school to graduate levels. 
 
-<details><summary> <span class="dropdown-title">Skills</span> </summary>
+<details><summary> <h2> Skills </h2> </summary>
   
 __Wet lab skills__
 - Expertise in molecular biology techniques including ELISA, mass spectrometry, immunohistochemistry, Western blotting, and column chromatography
