@@ -68,7 +68,7 @@ __Field diagnosis of soil-transmitted helminth eggs (STH) in stool samples using
 - Trained, optimized, and validated a machine learning algorithm for accurate classification of STH eggs in stool samples processed via our flotation method
 - Led a multidisciplinary team of lab technicians, microscopists, and field workers at ICDDRB, Bangladesh, to conduct a pilot study, demonstrating the utility of the NTDscope for field-based detection of STH eggs
 
-[__UC Berkeley Molecular Therapeutics Initiative Project (MTI)__](https://www.businesswire.com/news/home/20240314120190/en/UC-Berkeley-Launches-New-Molecular-Therapeutics-Initiative-to-Accelerate-Drug-Discovery)
+__[UC Berkeley Molecular Therapeutics Initiative Project (MTI)](https://www.businesswire.com/news/home/20240314120190/en/UC-Berkeley-Launches-New-Molecular-Therapeutics-Initiative-to-Accelerate-Drug-Discovery)__
 
 - Developed and optimized methods to test the effects of candidate drug conformations on Methicillin-resistant Staphylococcus aureus (MRSA)
 - Evaluated binding of different labelled candidate molecules on Escherichia Coli  and MRSA
