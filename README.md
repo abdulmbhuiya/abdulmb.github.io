@@ -78,7 +78,7 @@ __[UC Berkeley Molecular Therapeutics Initiative Project (MTI)](https://www.busi
 - Evaluated binding of different labelled candidate molecules on Escherichia Coli  and MRSA
 - Collaborated with cross-functional teams comprising researchers from UC Berkeley, external academic institutes, biopharma companies, and venture capital partners
 
-__[NSF-Funded Scientific Observation Exhibit Development with the Exploratorium](https://www.exploratorium.edu/cellstoself/projects/seeing-scientifically)__
+__[Scientific Observation Exhibit Development with the Exploratorium](https://www.exploratorium.edu/cellstoself/projects/seeing-scientifically)__
 
 - Collaborated on an NSF-funded program to develop museum exhibits that engage visitors in scientific observation, simulating how scientists analyze life through a microscope
 - Designed and prototyped custom PDMS chambers with optimized parameters to facilitate daily feeding of marine rotifers with flagellated algae, ensuring rotifer health and viability throughout the process
