@@ -323,20 +323,50 @@ __Magnetic nanoparticle-conjugated antibody for treatment of rheumatoid arthriti
 
 ## Relevant Coursework
 
-- Spring 2025- Bioengineering Ethics
-- Fall 2024- Design, Evaluate, and Scale Development Technologies
-- Spring 2024- Statistics in R
-- Fall 2023- Advanced Special Topics in Development Engineering
-- Spring 2021- Infectious Disease Research in Developing Countries,  Zoonotic Diseases
-- Fall 2020- Public Health Immunology
-- Spring 2020- Development Engineering Research
-- Fall 2019- Advanced BioMEMS and Bionanotechnology, Clinical Need-Based Therapy Solutions, Teaching Techniques for Bioengineering
-- Fall 2018- Systems Biology, Bioprocess Engineering
-- Spring 2018- Optical Microscopy of Biological Materials, Methods and Logic in Quantitative Biology
-- Fall 2018- Computational Biology, Numerical Methods in Biology, Molecular Bioengineering
-- Spring 2017- Biomedical Instrumentation, Applied Linear Algebra, Techniques in Biochemistry and Biotechnology, Exploring Genome Data, Global Healthcare Technologies
-- Fall 2016- Introduction to Computer Engineering and Science, Electrical and Electronic Circuits, Differential Equations, Cell and Membrane Physiology, Global Biosecurity
-- Spring 2016- Mechanisms of Human Disease, Computing in Molecular Biology, Intro to Sustainable Engineering Fall 2015- Introduction to Bioengineering, Human Anatomy and Physiology, Biochemistry & Physical Basis of Life
-- Spring 2015- Experimental techniques in Cellular Biology, Cells, Tissues and Development
-- Fall 2014- Thermal Physics, Quantum Physics, Molecular Genetics, Experimental techniques in Molecular Biology
-- Spring 2014- Biostatistics
+__Bioengineering & Biomedical Engineering__
+- Spring 2025 – Bioengineering Ethics
+- Fall 2019 – Advanced BioMEMS and Bionanotechnology
+- Fall 2019 – Clinical Need-Based Therapy Solutions
+- Fall 2019 – Teaching Techniques for Bioengineering
+- Fall 2018 – Systems Biology
+- Fall 2018 – Molecular Bioengineering
+- Spring 2017 – Biomedical Instrumentation
+- Fall 2015 – Introduction to Bioengineering
+
+__Development & Global Health__
+- Fall 2024 – Design, Evaluate, and Scale Development Technologies
+- Fall 2023 – Advanced Special Topics in Development Engineering
+- Spring 2021 – Infectious Disease Research in Developing Countries, Zoonotic Diseases
+- Fall 2020 – Public Health Immunology
+- Spring 2020 – Development Engineering Research
+- Spring 2017 – Global Healthcare Technologies
+- Fall 2016 – Global Biosecurity
+- Spring 2016 – Intro to Sustainable Engineering
+
+__Computational & Quantitative Biology__
+- Spring 2024 – Statistics in R
+- Fall 2018 – Computational Biology
+- Fall 2018 – Numerical Methods in Biology
+- Spring 2018 – Methods and Logic in Quantitative Biology
+- Spring 2017 – Exploring Genome Data
+- Spring 2016 – Computing in Molecular Biology
+- Spring 2014 – Biostatistics
+
+__Molecular & Cellular Biology__
+- Fall 2014 – Molecular Genetics
+- Spring 2015 – Experimental Techniques in Cellular Biology
+- Spring 2015 – Cells, Tissues, and Development
+- Fall 2014 – Experimental Techniques in Molecular Biology
+- Fall 2015 – Human Anatomy and Physiology
+- Fall 2015 – Biochemistry & Physical Basis of Life
+- Spring 2016 – Mechanisms of Human Disease
+- Spring 2017 – Techniques in Biochemistry and Biotechnology
+
+__Physics, Mathematics & Engineering__
+- Spring 2018 – Optical Microscopy of Biological Materials
+- Spring 2017 – Applied Linear Algebra
+- Fall 2016 – Differential Equations
+- Fall 2016 – Electrical and Electronic Circuits
+- Fall 2016 – Introduction to Computer Engineering and Science
+- Fall 2014 – Thermal Physics
+- Fall 2014 – Quantum Physics
