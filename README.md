@@ -6,7 +6,7 @@ During my PhD, I developed innovative Cas13-based diagnostic platforms for direc
 
 My experience extends to leading and collaborating with cross-functional, interdisciplinary teams across the globe. My passion lies in advancing digital healthcare technologies that significantly improve access to basic healthcare, enhance public health surveillance, and support targeted interventions. Beyond my research, I am deeply committed to education and mentorship. I helped design educational programs and mentored a diverse array of students, including those from underrepresented backgrounds, spanning high school to graduate levels. 
 
-<details><summary> <h2> Skills </h2> </summary>
+## Skills
   
 __Wet lab skills__
 
@@ -40,9 +40,7 @@ __Leadership, Teaching & Mentoring__
 - Led cross-functional teams in the development of novel diagnostics and medical devices, collaborating across academic and industry partners
 - Co-organized and participated in hackathons and design challenges, addressing public health and pandemic-related challenges
 
-</details>
-
-<details><summary> <h2>Education<h2> </summary>
+## Education
 
 ### **Doctor of Philosophy (PhD) | UC Berkeley-UCSF Bioengineering Graduate Program | August 2019 - May 2025 (Expected graduation)**								       		
 - Major: Bioengineering
@@ -56,9 +54,7 @@ __Leadership, Teaching & Mentoring__
 - Major: Molecular and Cellular Biology (MCB)
 - Minor: Chemistry	 	   
 
-</details>
-
-<details><summary> <h2>Research Experience<h2> </summary>
+## Work Experience
 
 ### **Prof. Daniel Fletcher’s Lab | UC Berkeley | June 2020-Present**
 
@@ -179,24 +175,18 @@ __Reprogramming cellular phenotype by soft collagen gels__
 - Prepared extracellular matrix (fibronectin) functionalized soft and stiff hydrogels to analyze the growth mechanics of healthy and cancerous primary colon cells
 - Analyzed different characteristics of the cell growth, such as surface area, stretch, volume etc. using image analysis software ImageJ
 
-</details>
-
-<details><summary> <h2>Invited talks<h2> </summary>
+## Invited Talks
 
 - “Diagnostic Gold- A Wealth of Health in Waste” Invited talk and panel discussion on global health tech, AI, and One Health at UC Berkeley on October 2024
 - “NTDscope: A multi-contrast portable microscope for disease diagnosis” Invited talk at weekly seminar on June 2024 at ICDDRB, Bangladesh
 
-</details>
-
-<details><summary> <h2>Poster presentations<h2> </summary>
+## Poster Presentations
 
 - Bhuiya, A., Aggarwal, S., Pitti, C., Krishnamurthy, D., , Son, S., Fletcher, D. (2024) “Bead-based surface Cas13 assay for multiplexed detection of RNA” Poster presented at 2024 UC Berkeley-UCSF Bioengineering Retreat
 - Zaraee, N., Bhuiya, A. M., Gong, E. S., Geib, M. T., Ünlü, N. L., Ozkumur, A. Y., ... & Ünlü, M. S. “Highly sensitive and label-free digital detection of whole cell E. coli with Interferometric Reflectance Imaging” Poster presented at the 2020 Label-free Biomedical Imaging and Sensing (LBIS) conference
 - D. Sevenler, E. Briars, A. Bhuiya, G.G. Daaboul. G, M.S. Ünlü, A. Khalil. “Rapid antibiotic susceptibility testing via interferometric detection of transcriptional biomarkers of antibiotic resistance” Poster presented at the 2018 Engineering Biology Research Consortium (EBRC) Retreat, Seattle, WA.
 
-</details>
-
-<details><summary> <h2>Publications<h2> </summary>
+## Publications
 
 1. Bhuiya, A., Aggarwal, S., Pitti, C., Krishnamurthy, D., , Son, S., Fletcher, D. (2025) Multiplexed direct detection of RNA with surface-bound Cas13a (Manuscript in preparation)
 2. Bhuiya, A., Moussa, Z., de Leon Derby, M., Onti, A., Rashid, M., Alvarado, D., Jahan, F., Batsukh, E., Falcon, C., Zhao, Z., Pan, Y., Haque, R., Rahman, M., Fletcher, D. (2025) Artificial intelligence-based quantitative mobile microscope for field diagnosis of soil-transmitted helminth infections in Bangladesh (Manuscript in preparation) 
@@ -207,9 +197,7 @@ __Reprogramming cellular phenotype by soft collagen gels__
 7. [Zaraee, N., Bhuiya, A. M., Gong, E. S., Geib, M. T., Ünlü, N. L., Ozkumur, A. Y., ... & Ünlü, M. S. (2020). Highly sensitive and label-free digital detection of whole cell E. coli with Interferometric Reflectance Imaging. Biosensors and Bioelectronics, 162, 112258.](https://www.sciencedirect.com/science/article/pii/S0956566320302530)
 8. [Ganguli, A., Ornob, A., Yu, H., Damhorst, G. L., Chen, W., Sun, F., Bhuiya, A., ... & Bashir, R. (2017). Hands-free smartphone-based diagnostics for simultaneous detection of Zika, Chikungunya, and Dengue at point-of-care. Biomedical microdevices, 19, 1-13.](https://link.springer.com/article/10.1007/s10544-017-0209-9)
 
-</details>
-
-<details><summary> <h2>Awards and Honors<h2> </summary>
+## Awards and Honors
 
 __Thomas C. Alber Science & Engineering for Global Health Fellowship | Center for Emerging and Neglected Diseases (CEND) at UC Berkeley| June 2024 - Present__
 - Funded fellowship to support fieldwork in Bangladesh to develop a diagnostic for soil-transmitted helminthic diseases
@@ -233,9 +221,7 @@ __Edmund J James Scholar | UIUC | January 2014 - May 2017__
 __Honor society of Phi Kappa Phi| UIUC | August 2016 - May 2017__
 - Elected for membership in Honor Society of Phi Kappa Phi who invites top 7.5 percent of juniors and the top 10 percent of seniors and graduate students
 
-</details>
-
-<details><summary> <h2>Teaching and Mentoring Experience<h2> </summary>
+## Teaching and Mentoring Experience
 
 __BioE 168L- Practical Light Microscopy| UC Berkeley | August 2022 - December 2023__
 - Led laboratory sessions where I provided short introductory lecture and provided guidance and support to students in conducting lab tasks and troubleshooting technical issues
@@ -276,9 +262,7 @@ __East Boston High School Regional Science Fair | Boston | January 2018 - May 20
 __Lincoln School STEM elective | Boston | September 2017 - December 2017__
 - Developed curriculum for hands-on afterschool class for middle school students to teach them concepts in STEM and their applications in the real-world
 
-</details>
-
-<details><summary> <h2>Extracurricular activities<h2> </summary>
+## Extracurricular Activities
 
 __2020 CEND COVID-19 hackathon| UC Berkeley | March 2020__
 - Co-organizer - Organized a virtual hackathon where multiple teams are assigned different topics related to COVID-19 and are required to address an issue related to the pandemics
@@ -310,6 +294,7 @@ __Bangladesh Student Association (BSA)| UIUC | August 2015 - August 2016__
 - Organized sports tournaments and cultural events for BSA, especially large-scale public events to educate the student community, particularly undergraduates, about the culture and lifestyle of Bangladesh
 
 ## Academic Projects
+
 __Field-based stool diagnostic device for soil-transmitted helminths (STH) | UC Berkeley | Fall 2024__
 - Developed a user-friendly novel stool sample processing method based on filtration, mixing and flotation for concentration of STH eggs on custom acrylic inserts
 - Developed a machine learning algorithm for classification of STH eggs from stool samples on NTDscope
@@ -336,9 +321,7 @@ __Point of care diagnostic x-ray machine for radiographic assessment of cervical
 __Magnetic nanoparticle-conjugated antibody for treatment of rheumatoid arthritis| UIUC | Fall 2014__
 - Modelled an antibody-conjugated magnetic nanoparticle to treat rheumatoid arthritis. Antibody was a monoclonal monospecific antibody for tumor necrosis factor (TNF), attached to a magnetic nanoparticle for efficient delivery of the antibody to joints affected by the disease
 
-</details>
-
-<details><summary> <h2>Relevant Coursework<h2> </summary>
+## Relevant Coursework
 
 - Spring 2025- Bioengineering Ethics
 - Fall 2024- Design, Evaluate, and Scale Development Technologies
@@ -357,5 +340,3 @@ __Magnetic nanoparticle-conjugated antibody for treatment of rheumatoid arthriti
 - Spring 2015- Experimental techniques in Cellular Biology, Cells, Tissues and Development
 - Fall 2014- Thermal Physics, Quantum Physics, Molecular Genetics, Experimental techniques in Molecular Biology
 - Spring 2014- Biostatistics
-
-</details>
